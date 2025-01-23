@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>مكتب خدمات عامة</title>
+    <style>
+        body { font-family: Arial, sans-serif; direction: rtl; text-align: right; }
+        .container { width: 80%; margin: auto; padding: 20px; }
+        h1 { color: #2c3e50; }
+        ul { list-style-type: none; padding: 0; }
+        li { background: #ecf0f1; margin: 5px 0; padding: 10px; border-radius: 5px; }
+        .contact { margin-top: 20px; }
+        .whatsapp-button {
+            display: inline-block;
+            background-color: #25D366;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>مكتب خدمات عامة</h1>
+        <p>نقدم مجموعة متنوعة من الخدمات لتلبية احتياجاتك:</p>
+        <ul>
+            <li>الجوازات: تسهيل إجراءات استخراج وتجديد الجوازات.</li>
+            <li>قوى: إدارة حسابات الأعمال وخدمات الموظفين عبر منصة قوى.</li>
+            <li>الزكاة والدخل: مساعدة في تقديم الإقرارات الضريبية والزكوية.</li>
+            <li>صحتي: تسجيل وتحديث البيانات الصحية عبر منصة صحتي.</li>
+            <li>مكتب العمل: خدمات متعلقة بتصاريح العمل ونقل الكفالة.</li>
+            <li>المرور: تجديد رخص القيادة وتسهيل معاملات المرور.</li>
+            <li>مساند: تسهيل استقدام العمالة المنزلية عبر منصة مساند.</li>
+            <li>أبشر: تفعيل وتحديث خدمات منصة أبشر.</li>
+            <li>التنمية الاجتماعية: تقديم خدمات الضمان الاجتماعي والمساعدات.</li>
+        </ul>
+        <div class="contact">
+            <p>للتواصل والاستفسارات:</p>
+            <a class="whatsapp-button" href="https://wa.me/966580689365" target="_blank">تواصل معنا عبر واتساب</a>
+        </div>
+    </div>
+</body>
+</html>
